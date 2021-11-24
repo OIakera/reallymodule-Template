@@ -1,10 +1,10 @@
-<h1 align="center">Module Template Xtended (Su-X)</h1>
+<h1 align="center">Module Template Megisk (Me-Megisk)</h1>
 
 ![6dfd90b9cf7b1ca0202d586c92652a07a71ddfda3f0e0f89e6dad003077a66ca](https://user-images.githubusercontent.com/62814971/131975276-93eafb0b-e68c-4838-8b49-78b944821985.jpg)
 
 ## What is it?
 
-A Module packaged in a zip file that can be flashed in the Zygisk app or custom recoveries such as TWRP.
+A Module packaged in a zip file that can be flashed in the Magisk app or InFuture(custom recoveries such as TWRP).
 
 ## Guides
 
@@ -12,4 +12,4 @@ A Module packaged in a zip file that can be flashed in the Zygisk app or custom 
 
 ## Credits
 
-Huge thanks to [Everyone](https://github.com/akirasupr/Su-Xtended/graphs/contributors) who has helped make this Module Template awesome!
+Huge thanks to [Everyone](https://github.com/akirasupr/megisk/graphs/contributors) who has helped make this Module Template awesome!
